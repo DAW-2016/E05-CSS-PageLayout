@@ -1,0 +1,35 @@
+#header {
+  background-color: lightgreen;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  width: 90%;
+  margin: auto;
+}
+
+#menu {
+  float: left;
+  width: 22%;
+  background-color: yellow;
+}
+
+#about {
+  float: right;
+  width: 20%;
+  background-color: lightblue;
+  padding: 2%;
+}
+
+#main {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-right: 3%;
+}
