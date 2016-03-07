@@ -1,0 +1,22 @@
+#menu {
+    float: left;
+    width: 20%;
+    background-color: #7E8AA2;
+
+}
+
+
+#anuncios {
+    float:right;
+    width: 20%;
+    background-color: #FF9800;
+    padding: 2%;
+}
+
+
+#conteudo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-right: 3%;
+}

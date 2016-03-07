@@ -1,0 +1,30 @@
+body{
+    width: 1200px;
+    margin: auto;
+}
+
+h5{
+    text-align: center;
+}
+
+#menu{
+
+    float:left;
+    width: 20%;
+    background-color: #7E8AA2;
+}
+
+#conteudo{
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-right: 3%;
+}
+
+#anucios{
+    float:right;
+    background-color: #FF9800;
+    width: 20%;
+    padding: 2%;
+}
